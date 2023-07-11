@@ -1,0 +1,17 @@
+.title{width: 708px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;}
+
+.banner-description{ display:flex;
+    justify-content: space-around;
+    background-color:#E554731A
+    }
+
+#btn-color{padding: 20px 43px;
+        border-radius: 8px;
+        background: #E55473;
+         color: #FFF;;}
+   
