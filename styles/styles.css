@@ -66,3 +66,25 @@
 .small-container{ display: flex;
 }
  
+.instagram{color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.instagram-text{text-align: center;
+    
+}
+.instagram-design{ width:1000px; 
+    margin:0 auto 0 auto; 
+    text-align:center;
+}
+.intsa{ display: block;
+width: 342px;
+height: 396px;
+background: url(<path-to-image>),
+ lightgray 50% / cover no-repeat;
+}
