@@ -82,9 +82,18 @@
     margin:0 auto 0 auto; 
     text-align:center;
 }
-.intsa{ display: block;
-width: 342px;
-height: 396px;
-background: url(<path-to-image>),
- lightgray 50% / cover no-repeat;
+
+   
+
+.flower{ color: #E55473;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
 }
+
+#flower-color{ color: #FFF;}
+.footer-text{ background: #111010;
+margin-left: 100px;
+margin-top:300px;
+margin-right: 100px;
+margin-bottom: 100px;}
